@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">AppTask</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textInitRecuperarConta">Informe seu e-mail para receber um link de alteração de senha.</string>
+    <string name="mensage_recover_senha_success">Link de recuperação de senha enviado no seu e-mail</string>
+    <string name="mensage_recover_senha_fail">Erro de conexão, tente novamente!</string>
+    <string name="e_mail">E-mail</string>
+    <string name="hint_email">email@email.com</string>
+    <string name="password">Senha</string>
+    <string name="hint_password">******</string>
+    <string name="login">Login</string>
+    <string name="text_created_acount">Criar Conta</string>
+    <string name="text_recover_account">Recuperar Conta</string>
+    <string name="send">Enviar</string>
+    <string name="erro_save_task">Erro ao salvar a tarefa.</string>
+    <string name="task_saved_successfully">Tarefa salva com sucesso.</string>
+    <string name="task_successfully_update">Tarefa atualizada com sucesso.</string>
+    <string name="edit_task">Editando tarefa...</string>
+    <string name="erro">Erro.</string>
+    <string name="no_task_registered">Nenhuma tarefa cadastrada.</string>
+
+    <!--    Tela login-->
+    <string name="text_password_empty">Informe sua senha.</string>
+    <string name="text_email_empty">Informe seu e-mail.</string>
+
+    <!--    tela nova tarefa-->
+    <string name="insert_description">Insira alguma descrição.</string>
+
+
+    <!-- Erros Firebase   -->
+
+    <string name="account_not_registered_register_fragment">Nenhuma conta encontrada com esse e-mail.</string>
+    <string name="invalid_email_register_fragment">Insira um e-mail válido.</string>
+    <string name="invalid_password_register_fragment">Senha inválida, tente novamente.</string>
+    <string name="email_in_use_register_fragment">Este e-mail já esta em uso.</string>
+    <string name="strong_password_register_fragment">Insira uma senha mais forte.</string>
+    <string name="exceeded_attempt_limit">Limite de tentativas excedido. Tente novamente em alguns minutos.</string>
+    <string name="error_generic">Ocorreu um erro, tente novamente mais tarde!</string>
+    <string name="btn_save_task">Salvar</string>
+
+
+<!--    botoon sheete-->
+    <string name="txt_title_bt_sheet">Atenção</string>
+    <string name="txt_button_bt_sheet">Entendi</string>
+    <string name="text_finalize">Finalizar</string>
+
+
+</resources>

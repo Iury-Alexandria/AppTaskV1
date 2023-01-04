@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "456206109852",
+    "project_id": "task-d7622",
+    "storage_bucket": "task-d7622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456206109852:android:f7062d230534459542b159",
+        "android_client_info": {
+          "package_name": "br.com.iuryalexandria.apptask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456206109852-pltothiaar68sknoj24hqv807ohi9tns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADk6Z-DvBejMPL5WiQv_gaJxo-SPAy1j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456206109852-pltothiaar68sknoj24hqv807ohi9tns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
